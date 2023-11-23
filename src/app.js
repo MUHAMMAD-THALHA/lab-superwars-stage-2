@@ -26,6 +26,7 @@ const initPlayers = (players) => {
     let detailedPlayers = [];
     // Create players using for loop
     // Type your code here
+
      players.forEach((player, index) => {
     detailedPlayers.push({
       name: player,
